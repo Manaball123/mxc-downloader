@@ -1,0 +1,63 @@
+{
+    "content": {
+      "body": "IMG_20240702_104244.jpg",
+      "file": {
+        "hashes": {
+          "sha256": "ArIRVbPnwObxVHGJJUsmkF+alQsqf3xvj3qYS7acy84"
+        },
+        "iv": "KpfKGyqf+GcoqTXy6P9Csg",
+        "key": {
+          "alg": "A256CTR",
+          "ext": true,
+          "k": "Dezy0PGxcE6uZL3TW6jPQTbjeXDdFhzW4aaclA9Udcc",
+          "key_ops": [
+            "encrypt",
+            "decrypt"
+          ],
+          "kty": "oct"
+        },
+        "mimetype": "image/jpeg",
+        "url": "mxc://eientei.org/edDEmwDWLDIRKDNuWAzlnYyB",
+        "v": "v2"
+      },
+      "filename": "IMG_20240702_104244.jpg",
+      "info": {
+        "mimetype": "image/jpeg",
+        "size": 119281,
+        "thumbnail_file": {
+          "hashes": {
+            "sha256": "puFibAUXA6/eVWbHpp0jUWPzcHoFAsLVZEgGLV0rX+w"
+          },
+          "iv": "+oni4yMvzvYwTec6GhD7KA",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "AgVm66D2Z0OtSz99ihmwzAROVco9J-lW49E8KXYIPoE",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "mimetype": "image/jpeg",
+          "url": "mxc://eientei.org/YwGxuhJJBoDXEGBStVtfeuee",
+          "v": "v2"
+        },
+        "thumbnail_info": {
+          "h": 255,
+          "mimetype": "image/jpeg",
+          "size": 39585,
+          "w": 800,
+          "xyz.amorgan.blurhash": "K36kYNwKDi?b%3%M4m%3-;"
+        },
+        "xyz.amorgan.blurhash": "K36kYNwKDi?b%3%M4m%3-;"
+      },
+      "msgtype": "m.image"
+    },
+    "event_id": "$soLwFwRj4eQErJc8dYqOsq3J67dKfZ_Yq-xvUtLxqiI",
+    "origin_server_ts": 1719914627661,
+    "room_id": "!qxYaUoqsYUyMyfHlAW:schizo.vip",
+    "sender": "@prae666:eientei.org",
+    "type": "m.room.message",
+    "unsigned": {}
+  }
