@@ -104,7 +104,7 @@ def get_filename_from_event(event : dict) -> str:
 
 def decode_base_64(base64s : str) -> bytes:
     paddedBase64 = base64s + "=" * ((4 - len(base64s) % 4) % 4)
-    return base64.b64decode(paddedBase64)
+    return base64.urlsafe_b64decode(paddedBase64)
 
 
 def decrypt_buffer(event : dict, data : bytes) -> bytes:
